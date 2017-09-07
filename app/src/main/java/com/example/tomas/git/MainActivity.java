@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
  public void Test(){
      System.out.println("Test");
      int zegar = 12;
+     String color = "ColorBlue";
  }
 }
