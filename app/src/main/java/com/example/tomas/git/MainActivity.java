@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
  public void Test(){
      System.out.println("Test");
+     String color = "ColorBlue";
  }
 }
